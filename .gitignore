@@ -2,3 +2,4 @@
 .django_orm_2
 __pycache__
 .vscode/
+.replit
